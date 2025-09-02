@@ -2,7 +2,7 @@ import codecs
 import json
 import os
 
-from IPython.core.display import HTML, display
+from IPython.core import HTML, display
 
 import numpy
 import requests
